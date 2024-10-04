@@ -1,0 +1,28 @@
+
+/* Default font for body */
+body {
+    font-family: "Hiragino Sans", "Meiryo", sans-serif;
+    /* font-family: "DotGothic16", sans-serif !important; */
+    /* font-family: "Lora", serif !important; */
+}
+
+/* secondary font */
+.secondary-font, #secondary-font {
+    font-family: "Hiragino Sans", "Meiryo", sans-serif;
+    /* font-family: "DotGothic16", sans-serif; */
+    /* font-family: "Lora", serif; */
+}
+
+/* primary font */
+.primary-font, #primary-font {
+    font-family: "Hiragino Sans", "Meiryo", sans-serif;
+    /* font-family: "DotGothic16", sans-serif; */
+    /* font-family: "Alata", sans-serif; */
+}
+
+/* Default font */
+.default-font, #default-font {
+    font-family: "Hiragino Sans", "Meiryo", sans-serif;
+    /* font-family: "DotGothic16", sans-serif; */
+    /* font-family: "Roboto", sans-serif; */
+}
