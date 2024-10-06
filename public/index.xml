@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>GIS 使い_こさめ</title>
-    <link>https://yu-kosame.github.io/gis-hugo/</link>
+    <link>https://gis.kosame.net/</link>
     <description>Recent content on GIS 使い_こさめ</description>
     <generator>Hugo</generator>
     <language>ja</language>
-    <atom:link href="https://yu-kosame.github.io/gis-hugo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://gis.kosame.net/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

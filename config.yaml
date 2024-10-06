@@ -1,4 +1,4 @@
-baseURL: "https://yu-kosame.github.io/gis-hugo/"
+baseURL: "https://gis.kosame.net/"
 languageCode: "ja"
 title: "GIS 使い_こさめ"
 theme: hugo-profile
