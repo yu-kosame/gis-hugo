@@ -1,11 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>GIS 使い_こさめ</title>
-    <link>https://gis.kosame.net/</link>
-    <description>Recent content on GIS 使い_こさめ</description>
+    <title>GIS使い_こさめ</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on GIS使い_こさめ</description>
     <generator>Hugo</generator>
-    <language>ja</language>
-    <atom:link href="https://gis.kosame.net/index.xml" rel="self" type="application/rss+xml" />
+    <language>ja-jp</language>
+    <lastBuildDate>Tue, 19 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>業務案内</title>
+      <link>http://localhost:1313/services/</link>
+      <pubDate>Tue, 19 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/services/</guid>
+      <description>&lt;h3 id=&#34;対応領域&#34;&gt;対応領域&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;QGIS 講習 / 導入支援&lt;/strong&gt;（ハンズオン、社内勉強会の設計）&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;地図作成・可視化&lt;/strong&gt;（陰陽図、主題図、印刷物／Web）&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Web GIS 構築&lt;/strong&gt;（Leaflet / MapLibre ベースの簡易サイト）&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;モバイル用地図&lt;/strong&gt;（Avenza Maps 用データ作成）&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;データ前処理&lt;/strong&gt;（CSV/GeoJSON/シェープの整備、座標変換）&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;クラウドGISの活用&lt;/strong&gt;（CARTO の試行・可視化）&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;進め方&#34;&gt;進め方&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;ヒアリング（目的・データ有無・納品形態）&lt;/li&gt;&#xA;&lt;li&gt;たたき台作成 → レビュー&lt;/li&gt;&#xA;&lt;li&gt;調整・納品（手順書や再現プロジェクト同梱可）&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h3 id=&#34;目安&#34;&gt;目安&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ミニ講習（2h）: 応相談&lt;/li&gt;&#xA;&lt;li&gt;図版1点（既存データあり）: 応相談&lt;/li&gt;&#xA;&lt;li&gt;小規模Web地図（1ページ）: 応相談&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;まずは要件を軽く共有ください。&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;連絡先&lt;/strong&gt;: &lt;a href=&#34;mailto:xxxxx@kosame.net&#34;&gt;mailto:xxxxx@kosame.net&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>自己紹介 / 経歴</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Tue, 19 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;フリーの GIS 技術者として、QGIS を中心に地図作成・講習・簡易な Web GIS をやっています。&lt;br&gt;&#xA;可読性の高い地図（陰影・配色・注記）と、再現性のある手順の提供を大事にしています。&lt;br&gt;&#xA;連絡: &lt;a href=&#34;mailto:xxxxx@kosame.net&#34;&gt;mailto:xxxxx@kosame.net&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;経歴&#34;&gt;経歴&lt;/h2&gt;&#xA;&lt;h3 id=&#34;gis-技術者gis-講習会講師--朝日航洋&#34;&gt;GIS 技術者、GIS 講習会講師 — 朝日航洋&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;役割: QGIS の講習・普及、地図表現の検討&lt;/li&gt;&#xA;&lt;li&gt;取り組み: 地形の陰影表現「陰陽図」を QGIS で作るためのプラグイン開発に関与&#xA;&lt;ul&gt;&#xA;&lt;li&gt;参考: &lt;a href=&#34;https://www.aeroasahi.co.jp/fun/column/26/&#34;&gt;陰陽図メーカー（社内コラム）&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;gis-技術者--pacific-spatial-solutions現株式会社&#34;&gt;GIS 技術者 — Pacific Spatial Solutions（現・株式会社）&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;役割: モバイル GIS「Avenza Maps」用の地図データ作成&lt;/li&gt;&#xA;&lt;li&gt;取り組み: Web ブラウザで動く GIS（CARTO）を用いた可視化と普及&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;gis-技術者--情報システム室--プレック研究所&#34;&gt;GIS 技術者 / 情報システム室 — プレック研究所&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;役割: 社内情報基盤と GIS 実務サポート&lt;/li&gt;&#xA;&lt;li&gt;取り組み: Web/データ周りの整備、簡易ツール作成&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;学歴&#34;&gt;学歴&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;立正大学 / 立正大学大学院&lt;br&gt;&#xA;地球環境科学研究科 環境システム学専攻（学士・修士）&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;スキル&#34;&gt;スキル&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;QGIS / GDAL / GeoPandas（軽めの前処理）&lt;/li&gt;&#xA;&lt;li&gt;表現: 陰影段彩・配色設計・注記&lt;/li&gt;&#xA;&lt;li&gt;Web: Leaflet / MapLibre（小規模）／Hugo（サイト整備）&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
   </channel>
 </rss>
