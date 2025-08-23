@@ -13,14 +13,14 @@
       <link>https://gis.kosame.net/services/</link>
       <pubDate>Tue, 19 Aug 2025 00:00:00 +0000</pubDate>
       <guid>https://gis.kosame.net/services/</guid>
-      <description>&lt;h3 id=&#34;gis-データの加工解析&#34;&gt;GIS データの加工・解析&lt;/h3&gt;&#xA;&lt;p&gt;ベクタ・ラスタ・衛星画像など、さまざまな GIS データを目的に合わせて整備・解析します。大規模データで QGIS が重くなる場合でも、必要に応じて PostGIS を組み合わせて効率的に処理します。&lt;/p&gt;&#xA;&lt;h3 id=&#34;マップ作製&#34;&gt;マップ作製&lt;/h3&gt;&#xA;&lt;p&gt;お手元のデータをもとに、用途に合った地図を作製します。印刷に適した高解像度マップ、ブラウザで拡大縮小できる Web マップ、オフラインでも使えるモバイル用マップなど、利用環境に合わせた形式に対応します。&lt;/p&gt;&#xA;&lt;h3 id=&#34;qgis-プラグイン開発&#34;&gt;QGIS プラグイン開発&lt;/h3&gt;&#xA;&lt;p&gt;繰り返し作業をワンクリックで実行できるプラグインを開発します。QGIS の機能を組み合わせた簡易版から、バージョンアップに強い Python ベースの本格的なツールまでご要望に合わせて提供します。&lt;/p&gt;&#xA;&lt;h3 id=&#34;野生生物の生息地推定&#34;&gt;野生生物の生息地推定&lt;/h3&gt;&#xA;&lt;p&gt;調査データや生息条件の知見をもとに、生息ポテンシャルマップを作成します。研究・保全活動・計画立案の基礎資料として活用いただけます。&lt;/p&gt;&#xA;&lt;h3 id=&#34;オーダーメイド-qgis-講習&#34;&gt;オーダーメイド QGIS 講習&lt;/h3&gt;&#xA;&lt;p&gt;業務や研究内容に合わせてカリキュラムを設計します。基礎操作から実務での活用まで柔軟に対応し、講習動画やサポート資料も提供可能です。&lt;/p&gt;&#xA;&lt;p&gt;お気軽にご相談くださいませ。&lt;/p&gt;</description>
+      <description>&lt;p&gt;GIS を用いて可視化・解析・開発・講習を行います&lt;/p&gt;</description>
     </item>
     <item>
       <title>中の人について</title>
       <link>https://gis.kosame.net/about/</link>
       <pubDate>Tue, 19 Aug 2025 00:00:00 +0000</pubDate>
       <guid>https://gis.kosame.net/about/</guid>
-      <description>&lt;p&gt;フリーの GIS 技術者として 主に QGIS を用いて業務を請け負っています。自然環境分野を得意としています。&lt;/p&gt;&#xA;&lt;h2 id=&#34;経歴新しい順&#34;&gt;経歴（新しい順）&lt;/h2&gt;&#xA;&lt;h3 id=&#34;職歴&#34;&gt;職歴&lt;/h3&gt;&#xA;&lt;h4 id=&#34;フリーの-空間データアナリスト--エンジニア現在&#34;&gt;フリーの 空間データアナリスト / エンジニア（現在）&lt;/h4&gt;&#xA;&lt;h4 id=&#34;朝日航洋株式会社現エアロトヨタ株式会社&#34;&gt;朝日航洋株式会社（現：エアロトヨタ株式会社）&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;役割: GIS 技術者、GIS 講習会講師&lt;/li&gt;&#xA;&lt;li&gt;取り組み: 地形の陰影表現「陰陽図」を QGIS で作る &lt;a href=&#34;https://www.aeroasahi.co.jp/fun/column/26/&#34;&gt;プラグイン&lt;/a&gt; 開発に関与&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;pacific-spatial-solutions&#34;&gt;Pacific Spatial Solutions&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;モバイル GIS「Avenza Maps」用の地図データ作成&lt;/li&gt;&#xA;&lt;li&gt;Web ブラウザで動く GIS（CARTO）を用いた可視化と普及&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;株式会社プレック研究所&#34;&gt;株式会社プレック研究所&lt;/h4&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;役割: GIS 技術者 / 情報システム室 —&#xA;社内情報基盤と GIS 実務サポート&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;学歴&#34;&gt;学歴&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;立正大学 / 立正大学大学院&lt;br&gt;&#xA;地球環境科学研究科 環境システム学専攻（学士・修士）&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;スキル&#34;&gt;スキル&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;GIS: QGIS / GDAL / PostGIS&lt;/li&gt;&#xA;&lt;li&gt;統計: Python / R&lt;/li&gt;&#xA;&lt;li&gt;その他: Linux / Docker / LaTeX&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <description>&lt;p&gt;フリーの GIS 技術者として 主に QGIS を用いて業務を請け負っています。自然環境分野を得意としています。&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

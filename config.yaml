@@ -4,13 +4,17 @@ title: "GIS使い_こさめ"
 theme: "hyde"
 
 params:
-  description: "GIS に関する業務を請け負う個人事業主です。"
+  description: 位置を持つデータは ひとまず地図にのせてみよっ 
 
 menus:
   main:
-    - name: "業務案内"
+    - name: "業務内容"
       url: "/services/"
       weight: 1
     - name: "中の人について"
       url: "/about/"
       weight: 2
+    # - name: Github
+    #   url: https://github.com/username/
+    # - name: LinkedIn
+    #   url: https://www.linkedin.com/in/username/
