@@ -4,7 +4,7 @@ title: "GIS使い_こさめ"
 theme: "hyde"
 
 params:
-  description: "GIS 使い_こさめ は、GIS に関する業務を請け負う個人事業主です。"
+  description: "GIS に関する業務を請け負う個人事業主です。"
 
 menus:
   main:

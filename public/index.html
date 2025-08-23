@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja-jp" lang="ja-jp">
-<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<head>
   <link href="https://gmpg.org/xfn/11" rel="profile">
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
   <meta name="generator" content="Hugo 0.145.0">
@@ -9,20 +9,25 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
   <title>GIS使い_こさめ</title>
-  <meta name="description" content="GIS 使い_こさめ は、GIS に関する業務を請け負う個人事業主です。" />
+  <meta name="description" content="GIS に関する業務を請け負う個人事業主です。" />
 
   
   
-  <link
-    type="text/css"
-    rel="stylesheet"
-    href="/css/print.css"
-    media="print" />
-  <link
-    type="text/css"
-    rel="stylesheet"
-    href="/css/hyde.css"
-    media="all" />  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Abril+Fatface|PT+Sans:400,400i,700">
+    <link
+      type="text/css"
+      rel="stylesheet"
+      href="/css/print.min.46d9bcbd80937d55db06b7034dfed7fc48b2bfb13e535dd9eac5581bfbaa8ddf.css"
+      media="print"
+      integrity="sha256-Rtm8vYCTfVXbBrcDTf7X/Eiyv7E&#43;U13Z6sVYG/uqjd8="
+      crossorigin="anonymous" />
+  
+    <link
+      type="text/css"
+      rel="stylesheet"
+      href="/css/hyde.min.f3d6e8c885a32fd33ff91a97a3740226d9845a18b948feb0ab79fc7522448fe1.css"
+      media="all"
+      integrity="sha256-89boyIWjL9M/&#43;RqXo3QCJtmEWhi5SP6wq3n8dSJEj&#43;E="
+      crossorigin="anonymous" />  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Abril+Fatface|PT+Sans:400,400i,700">
 
 
   
@@ -30,7 +35,7 @@
   <link rel="shortcut icon" href="/favicon.png">
 
   
-  <link href="http://localhost:1313/index.xml" rel="alternate" type="application/rss+xml" title="GIS使い_こさめ" />
+  <link href="https://gis.kosame.net/index.xml" rel="alternate" type="application/rss+xml" title="GIS使い_こさめ" />
   
 </head>
 
@@ -38,15 +43,15 @@
   <aside class="sidebar">
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
-      <a href="http://localhost:1313/"><h1>GIS使い_こさめ</h1></a>
+      <a href="https://gis.kosame.net/"><h1>GIS使い_こさめ</h1></a>
       <p class="lead">
-       GIS 使い_こさめ は、GIS に関する業務を請け負う個人事業主です。 
+       GIS に関する業務を請け負う個人事業主です。 
       </p>
     </div>
 
     <nav>
       <ul class="sidebar-nav">
-        <li><a href="http://localhost:1313/">Home</a> </li>
+        <li><a href="https://gis.kosame.net/">Home</a> </li>
         <li><a href="/services/"> 業務案内 </a></li><li><a href="/about/"> 中の人について </a></li>
       </ul>
     </nav>
@@ -59,60 +64,44 @@
     <div class="posts">
 <article class="post">
   <h1 class="post-title">
-    <a href="http://localhost:1313/services/">業務案内</a>
+    <a href="https://gis.kosame.net/services/">業務内容</a>
   </h1>
   <time datetime="2025-08-19T00:00:00Z" class="post-date">Tue, Aug 19, 2025</time>
-  <h3 id="対応領域">対応領域</h3>
-<ul>
-<li><strong>QGIS 講習 / 導入支援</strong>（ハンズオン、社内勉強会の設計）</li>
-<li><strong>地図作成・可視化</strong>（陰陽図、主題図、印刷物／Web）</li>
-<li><strong>Web GIS 構築</strong>（Leaflet / MapLibre ベースの簡易サイト）</li>
-<li><strong>モバイル用地図</strong>（Avenza Maps 用データ作成）</li>
-<li><strong>データ前処理</strong>（CSV/GeoJSON/シェープの整備、座標変換）</li>
-<li><strong>クラウドGISの活用</strong>（CARTO の試行・可視化）</li>
-</ul>
-<h3 id="進め方">進め方</h3>
-<ol>
-<li>ヒアリング（目的・データ有無・納品形態）</li>
-<li>たたき台作成 → レビュー</li>
-<li>調整・納品（手順書や再現プロジェクト同梱可）</li>
-</ol>
-<h3 id="目安">目安</h3>
-<ul>
-<li>ミニ講習（2h）: 応相談</li>
-<li>図版1点（既存データあり）: 応相談</li>
-<li>小規模Web地図（1ページ）: 応相談</li>
-</ul>
-<p>まずは要件を軽く共有ください。</p>
-<p><strong>連絡先</strong>: <a href="mailto:xxxxx@kosame.net">mailto:xxxxx@kosame.net</a></p>
+  <h3 id="gis-データの加工解析">GIS データの加工・解析</h3>
+<p>ベクタ・ラスタ・衛星画像など、さまざまな GIS データを目的に合わせて整備・解析します。大規模データで QGIS が重くなる場合でも、必要に応じて PostGIS を組み合わせて効率的に処理します。</p>
+<h3 id="マップ作製">マップ作製</h3>
+<p>お手元のデータをもとに、用途に合った地図を作製します。印刷に適した高解像度マップ、ブラウザで拡大縮小できる Web マップ、オフラインでも使えるモバイル用マップなど、利用環境に合わせた形式に対応します。</p>
+<h3 id="qgis-プラグイン開発">QGIS プラグイン開発</h3>
+<p>繰り返し作業をワンクリックで実行できるプラグインを開発します。QGIS の機能を組み合わせた簡易版から、バージョンアップに強い Python ベースの本格的なツールまでご要望に合わせて提供します。</p>
+<h3 id="野生生物の生息地推定">野生生物の生息地推定</h3>
+<p>調査データや生息条件の知見をもとに、生息ポテンシャルマップを作成します。研究・保全活動・計画立案の基礎資料として活用いただけます。</p>
+<h3 id="オーダーメイド-qgis-講習">オーダーメイド QGIS 講習</h3>
+<p>業務や研究内容に合わせてカリキュラムを設計します。基礎操作から実務での活用まで柔軟に対応し、講習動画やサポート資料も提供可能です。</p>
+<p>お気軽にご相談くださいませ。</p>
   
 </article><article class="post">
   <h1 class="post-title">
-    <a href="http://localhost:1313/about/">自己紹介 / 経歴</a>
+    <a href="https://gis.kosame.net/about/">中の人について</a>
   </h1>
   <time datetime="2025-08-19T00:00:00Z" class="post-date">Tue, Aug 19, 2025</time>
-  <p>フリーの GIS 技術者として、QGIS を中心に地図作成・講習・簡易な Web GIS をやっています。<br>
-可読性の高い地図（陰影・配色・注記）と、再現性のある手順の提供を大事にしています。<br>
-連絡: <a href="mailto:xxxxx@kosame.net">mailto:xxxxx@kosame.net</a></p>
-<h2 id="経歴">経歴</h2>
-<h3 id="gis-技術者gis-講習会講師--朝日航洋">GIS 技術者、GIS 講習会講師 — 朝日航洋</h3>
+  <p>フリーの GIS 技術者として 主に QGIS を用いて業務を請け負っています。自然環境分野を得意としています。</p>
+<h2 id="経歴新しい順">経歴（新しい順）</h2>
+<h3 id="職歴">職歴</h3>
+<h4 id="フリーの-空間データアナリスト--エンジニア現在">フリーの 空間データアナリスト / エンジニア（現在）</h4>
+<h4 id="朝日航洋株式会社現エアロトヨタ株式会社">朝日航洋株式会社（現：エアロトヨタ株式会社）</h4>
 <ul>
-<li>役割: QGIS の講習・普及、地図表現の検討</li>
-<li>取り組み: 地形の陰影表現「陰陽図」を QGIS で作るためのプラグイン開発に関与
-<ul>
-<li>参考: <a href="https://www.aeroasahi.co.jp/fun/column/26/">陰陽図メーカー（社内コラム）</a></li>
+<li>役割: GIS 技術者、GIS 講習会講師</li>
+<li>取り組み: 地形の陰影表現「陰陽図」を QGIS で作る <a href="https://www.aeroasahi.co.jp/fun/column/26/">プラグイン</a> 開発に関与</li>
 </ul>
-</li>
-</ul>
-<h3 id="gis-技術者--pacific-spatial-solutions現株式会社">GIS 技術者 — Pacific Spatial Solutions（現・株式会社）</h3>
+<h4 id="pacific-spatial-solutions">Pacific Spatial Solutions</h4>
 <ul>
-<li>役割: モバイル GIS「Avenza Maps」用の地図データ作成</li>
-<li>取り組み: Web ブラウザで動く GIS（CARTO）を用いた可視化と普及</li>
+<li>モバイル GIS「Avenza Maps」用の地図データ作成</li>
+<li>Web ブラウザで動く GIS（CARTO）を用いた可視化と普及</li>
 </ul>
-<h3 id="gis-技術者--情報システム室--プレック研究所">GIS 技術者 / 情報システム室 — プレック研究所</h3>
+<h4 id="株式会社プレック研究所">株式会社プレック研究所</h4>
 <ul>
-<li>役割: 社内情報基盤と GIS 実務サポート</li>
-<li>取り組み: Web/データ周りの整備、簡易ツール作成</li>
+<li>役割: GIS 技術者 / 情報システム室 —
+社内情報基盤と GIS 実務サポート</li>
 </ul>
 <h3 id="学歴">学歴</h3>
 <ul>
@@ -121,15 +110,17 @@
 </ul>
 <h2 id="スキル">スキル</h2>
 <ul>
-<li>QGIS / GDAL / GeoPandas（軽めの前処理）</li>
-<li>表現: 陰影段彩・配色設計・注記</li>
-<li>Web: Leaflet / MapLibre（小規模）／Hugo（サイト整備）</li>
+<li>GIS: QGIS / GDAL / PostGIS</li>
+<li>統計: Python / R</li>
+<li>その他: Linux / Docker / LaTeX</li>
 </ul>
   
 </article>
 </div>
     </main>
 
+    
+      
     
   </body>
 </html>

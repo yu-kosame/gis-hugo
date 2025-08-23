@@ -1,0 +1,27 @@
+/* 背景色 */
+body {
+  background-color: #dcdcdc;
+  color: #333333;
+}
+
+/* リンク色（アクセント） */
+a, a:visited {
+  color: #88c2d1;
+}
+a:hover {
+  color: #7a7a7a;
+}
+
+/* サイドバー */
+.sidebar {
+  background-color: #7a7a7a;
+  color: #ffffff;
+}
+
+/* サイドバー内リンク */
+.sidebar a {
+  color: #dcdcdc;
+}
+.sidebar a:hover {
+  color: #88c2d1;
+}
