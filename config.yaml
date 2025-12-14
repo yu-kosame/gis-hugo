@@ -4,7 +4,7 @@ title: "GIS使い_こさめ"
 theme: "hyde"
 
 params:
-  description: 位置を持つデータは ひとまず地図にのせてみよっ 
+  description: 空間データの可視化・解析・自動化
 
 menus:
   main:
