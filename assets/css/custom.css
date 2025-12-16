@@ -25,3 +25,19 @@ a:hover {
 .sidebar a:hover {
   color: #6dbed4;
 }
+
+.top-logo {
+  text-align: center;
+  margin: 1.5rem 0 2rem;
+}
+
+.top-logo img {
+  max-width: 260px;
+  width: 60%;
+  height: auto;
+  opacity: 0.85;
+}
+
+.top-logo img {
+  filter: saturate(0.9);
+}
