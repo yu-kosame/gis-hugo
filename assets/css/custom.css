@@ -6,10 +6,11 @@ body {
 
 /* リンク色（アクセント） */
 a, a:visited {
-  color: #6dbed4;
+  color: #247895;
 }
+
 a:hover {
-  color: #7a7a7a;
+  color: #247895;
 }
 
 /* サイドバー */
@@ -22,6 +23,7 @@ a:hover {
 .sidebar a {
   color: #dcdcdc;
 }
+
 .sidebar a:hover {
   color: #6dbed4;
 }
@@ -36,8 +38,4 @@ a:hover {
   width: 60%;
   height: auto;
   opacity: 0.85;
-}
-
-.top-logo img {
-  filter: saturate(0.9);
 }
